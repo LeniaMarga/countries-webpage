@@ -1,0 +1,29 @@
+.center-me{
+    margin: 0 auto;
+    width: 200px;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+#dropdown{
+    margin: 0 auto;
+    width: 200px;
+    position: relative;
+    display: inline-block;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    padding: 10px 8px 10px 14px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+
+}
+
+#boop{
+
+width: 200px;
+font-family: "Comic Sans MS";
+font-size: 16px;
+position: center;
+}
